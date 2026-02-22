@@ -1,2 +1,8 @@
-# -0800-pouczem
-Introduction to Machine Learning. Institute of Physics, Nicolaus Copernicus University (25/26). 
+### Introduction to Machine Learning
+
+Ongoing course at the Institute of Physics, Nicolaus Copernicus University
+(Summer 25/26).
+
+Classes:
+
+1. Introduction and basics - Feb 22 2026.
