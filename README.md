@@ -5,5 +5,8 @@ Ongoing course at the Institute of Physics, Nicolaus Copernicus University
 
 Classes:
 
-1. Introduction and basics - Feb 22 2026.
-2. Containers and flow - Mar 2 2026.
+1. Feb 22 - Introduction and basics.
+2. Mar 2 - Containers and flow.
+3. Mar 9 - Containers and flow, cont.
+4. Mar 16 - Cancelled.
+5. Mar 23 - Functions and classes.
