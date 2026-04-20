@@ -11,3 +11,4 @@ Classes:
 4. Mar 23 - Functions and classes.
 5. Mar 30 - Classes, cont.  
 6. Apr 13 - Numpy arrays.
+7. Apr 20 - Numpy arrays (cont.) and Matplotlib.
