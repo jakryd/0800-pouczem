@@ -10,5 +10,6 @@ Classes:
 3. Mar 9 - Containers and flow, cont.  
 4. Mar 23 - Functions and classes.
 5. Mar 30 - Classes, cont.  
-6. Apr 13 - Numpy arrays.
-7. Apr 20 - Numpy arrays (cont.) and Matplotlib.
+6. Apr 13 - `numpy` arrays.  
+7. Apr 20 - `numpy` arrays (cont.) and `matplotlib`.  
+8. May 4 - `matplotlib` (cont.) and `sklearn`.  
