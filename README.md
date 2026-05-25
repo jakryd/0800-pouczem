@@ -12,4 +12,9 @@ Classes:
 5. Mar 30 - Classes, cont.  
 6. Apr 13 - `numpy` arrays.  
 7. Apr 20 - `numpy` arrays (cont.) and `matplotlib`.  
-8. May 4 - `matplotlib` (cont.) and `sklearn`.  
+8. May 4 - `matplotlib` (cont.).  
+9. May 11 - `sklearn`. 
+10. May 18 - `sklearn` (cont.).
+11. May 25 - `sklearn` (cont.).
+12. Jun 1 - 
+13. Jun 8 - Test.
